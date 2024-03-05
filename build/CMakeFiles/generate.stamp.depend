@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Projects_C/Learning_cmake/CMakeLists.txt
+C:/Projects_C/Learning_cmake/build/CMakeFiles/3.27.5/CMakeCCompiler.cmake
+C:/Projects_C/Learning_cmake/build/CMakeFiles/3.27.5/CMakeCXXCompiler.cmake
+C:/Projects_C/Learning_cmake/build/CMakeFiles/3.27.5/CMakeRCCompiler.cmake
+C:/Projects_C/Learning_cmake/build/CMakeFiles/3.27.5/CMakeSystem.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/SDK/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake

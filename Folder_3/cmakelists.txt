@@ -1,0 +1,18 @@
+# 添加子目录
+add_subdirectory(./add/)
+# 包含头文件的路径
+include_directories(./lib/)
+
+# 1.指定库文件路径 (过时)
+# link_libraries(C:/Projects_C/Learning_cmake/Folder_3/lib/add_static.lib)  # 绝对路径
+# add_executable(test_3 main.cpp)
+
+# 2.指定库文件路径 (过时)
+# 先指定库搜索路径再定义可执行文件
+# link_directories(./lib/)
+# add_executable(test_3 main.cpp)
+
+# 3.指定需要链接的库文件
+# target_link_libraries(test_3 add_static.lib)  # 若已`link_directories`指定库文件路径,则可直接指定
+add_executable(test_3 main.cpp)
+target_link_libraries(test_3 C:/Projects_C/Learning_cmake/Folder_3/lib/add_static.lib)  # 将`add_static.lib`链接到目标`test_3.exe`

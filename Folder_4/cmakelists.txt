@@ -1,0 +1,5 @@
+add_subdirectory(./add/)
+include_directories(./lib/)
+
+add_executable(test_4 main.cpp)
+target_link_libraries(test_4 C:/Projects_C/Learning_cmake/Folder_4/lib/add_shared.lib)  # 编译时只需用`lib`,运行时用`dll`

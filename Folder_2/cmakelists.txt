@@ -1,0 +1,4 @@
+# 包含头文件的路径
+include_directories(../Folder_1)
+# 指定项目所需编译的cpp文件
+add_executable(test_2 main.cpp ../Folder_1/add.cpp)  # 这里即便`include_dir`了还是要指定完整`add.cpp`路径

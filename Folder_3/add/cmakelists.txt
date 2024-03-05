@@ -1,0 +1,2 @@
+# 指定生成的库,默认静态库
+add_library(add_static add.cpp)

@@ -1,0 +1,3 @@
+add_library(add_shared SHARED add.cpp)
+# 添加宏定义
+target_compile_definitions(add_shared PRIVATE EXPORT)  # 编译时加上宏定义`EXPORT`

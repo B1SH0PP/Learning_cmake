@@ -1,0 +1,5 @@
+# 头文件路径
+include_directories(C:/SDK/OpenCV/OpenCV_4.6.0/opencv/build/include)
+
+add_executable(test_5-opencv main.cpp)
+target_link_libraries(test_5-opencv C:/SDK/OpenCV/OpenCV_4.6.0/opencv/build/x64/vc15/lib/opencv_world460d.lib)
